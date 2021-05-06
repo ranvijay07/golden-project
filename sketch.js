@@ -166,7 +166,7 @@ function setup() {
     
     
     
-    cup = createSprite(500, 400, 20, 120);
+    cup = createSprite(500, 520, 20, 120);
     cup.addImage("c1",cupImg)
     cup.shapeColor = "yellow";
     cup.scale=0.3
